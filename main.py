@@ -1,6 +1,6 @@
 from telebot import TeleBot, types
 
-bot = TeleBot('8080350386:AAHNLe-d4TYYbIX4C51x9u8Am6t-L_s27WU')
+bot = TeleBot('(свой API код бота)')
 
 
 
